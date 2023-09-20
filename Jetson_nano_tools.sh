@@ -2,6 +2,9 @@
 
 sudo apt-get update
 
+# Install nano
+sudo apt install nano
+
 # Install python tool
 sudo apt-get -y install python3-pip
 sudo apt install python3-dev
